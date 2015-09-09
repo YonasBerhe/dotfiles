@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/Users/sanoy/code/npmmodule'
 let g:netrw_dirhist_2='/Users/sanoy/code/pink-elephant/routes'
+let g:netrw_dirhist_3='/Users/sanoy/code/savaho/www/app.md'
+let g:netrw_dirhist_4='/Users/sanoy/code'
+let g:netrw_dirhist_5='/Users/sanoy/code/high-ground-alert'
+let g:netrw_dirhist_6='/Users/sanoy/code/pulleykingcounty/pulley'

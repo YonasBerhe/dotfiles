@@ -1,500 +1,500 @@
+ls
+vim app.js 
+l
+ls
+cat manifest.yml 
+clear
+ls
+cd p
+cd public/
+ls
+vim index.html 
+clear
+ls
+cd ..
+ls
+cd public/
+ls
+open index.html 
+ls
+cd ..
+ls
 vim README.md 
 ls
-cd lib/
-ls
-cd ..
-ls
-cd lib/
-ls
-cd ..
-ls
-cd routes/
-ls
-cd ..
-s
-ls
 clear
-ls
-cd models/
-ls
-cd ..
-sl
-ls
-mkdir data
-ls
-tmux
-ls
-ls
-cd code/
-ls
-ls
-cd ..
-ls
-cd ..
-sl
-ls
-cd ..
-sl
-ls
-cd fatalshootings/
-sl
-ls
-cd fatalshootings/
-ls
-cd shared-utils/
-ls
-cd ..
-clear
-ls
-cd sys-admin/
-ls
-cd ..
-sl
-ls
-clear
-ls
-spotify next
-ls
-cd ..
-ls
-cd ..
-ls
-vim package.json 
-spotify pause
-ls
-cd ~
-ls
-cd code/
-ls
-cd pulley.pugetsound/
-ls
-cd views/
-ls
-cd pages/
-ls
-clear
-ls
-npm install nodemailer --save
-ls
-ls
-touch exp.js
-ls
-vim exp.js 
-ls
-npm install nodemailer-smtp-transport --save
-npm install xoauth2 --save
-clear
-ls
-ls
-vim exp.js 
-node exp.js 
-vim exp.js 
-ls
-rm exp.js 
-ls
-spotify play
-ls
-cd ..
-ls
-cd ..
-sl
-ls
-npm install --save sweetcaptcha
-ls
-clear
-ls
-cd scripts/
-ls
-cat main.js 
-ls
-cd ..
-sl
-ls
-cat index.js 
-clear
-vim app.js
-ls
-atom .
-ls
-ls
-npm install swig --save
-exit
-ls
-ls
-cd code/fatalshootings/
-ls
-cd fatalshootings/
-ls
-heroku local web
-heroku config:get MONGOHQ_URL -s  >> .env
-clear
-ls
-ls
-ls -a
-cat .env 
-vim .env 
-ls
-heroku local web
-clear
-cd ..
-ls
-ls
-cd .
-cd ..
-ls
-cd pulley.pugetsound/
-ls
-nodemon index.js 
-clear
-ls
-ls
-clear
-open .
-ls
-ls -a
-clear
-ls
-cd pllsd/
-clear
-ls
-cd ..
-sl
-ls
-node index.js 
-clear
-ls
-rm -rf pllsd/
-ls
-git branch
-git status
-git add .
-git commit -am "merge code from heroku to github"
-clear
-spotify play
-git branch 
-git checkout -b nodemailer
-ls
-cat index.js 
-clear
-ls
-ls
-vim index.js 
-ls
-cat package.json 
-clear
-ls
-vim index.js 
-cd views/
-lsl=
-ls
-cd pages/
-ls
-vim contact.js 
-ls
-cd ..
-ls
-cd ..
 ls
 cd node_modules/
 ls
 cd ..
-clear
-sl
-ls
-cd views/
-sl
-ls
-cd pages/
-ls
-vim contact.js 
-ls
-atom .
-ls
-ls
-cd am
-cd explore/
-ls
-cd public/
-ls
-cd js/
-ls
 ls
 clear
 ls
-ls
-cd ..
-ls
-cd ..
-ls
-cd routes/
-ls
-cat contact.js 
-c;ear
-clear
-s
-ls
-cd ..
-ls
-cd ..
-ls
-cd shared-views/
-ls
-cat contact.js 
-clear
-vim contact.html 
-ls
-cd ..
-sl
-ls
-cd ..
-ls
-cd ..
-ls
-ls
-cd fatalshootings/
-ls
-cd fatalshootings/
-sl
-ls
-clear
-ls
-cd shared-
-cd shared-views/
-sl
-ls
-vim contact.js 
-ls
-cd ..
-cd ..
-ls
-cd ..
-ls
-mkdir nodefatal
-ls
-cd nodefatal/
-ls
-clear
-ls
-npm init
-ls
-npm install nodemailer --save 
-npm install express --save 
-clear
-ls
-vim server.js
-vim server.js
-ls
-vim index.html
-atom  .
-l
-ls
-touch app.js
-ls
-node server.js 
-node server.js 
-node server.js 
-ls
-git clone https://github.com/ijason/NodeJS-Email.git
-ls
-cd NodeJS-Email/
-clear
-ls
-npm install
 ls
 node app.js 
-clear
+git pull
 ls
-vim app.js 
-node app.js 
-ls
-ls
-ls
-brew install archey
-Archey
+cd node_modules/
 ls
 cd ..
-l
-cd ..
 ls
-vim hellomac
-clear
-spotify pause
-spotify play
-ls
-cd pulleykingcounty/
-ls
-cd pulley/
-ls
-clear
-ls
-cat package.json 
-clear
-ls
-mkdir shared-utils
-ls
-cd shared-utils/
-s
-ls
-tocuh dependcies.js
-ls
-touch dependcies.js
-ls
-vim dependcies.js 
-ls
-cd ..
-sl
-ls
-git brach
-git branch
-clear
-ls
+cd p
 atom .
+git pull
+clear
 ls
-cd ..
+node app.js 
+cd ~
+ls
+mongod --dbpath db/
 l
 sls
 ls
+atom .
+l
+ls
+clear
+ls
+cd ..
+ls
+cd openseattle.github.io/
+ls
+clear
+ls
+cd _data/
+ls
+cd ~
+sl
+ls
+clear
+cd code/
+ls
+cd tuts/
+ls
+cd 30daych/
+ls
+cd meanpp/
+ls
+clear
+atom .
+ls
+cd ..
+ls
+cd ~/code/
+curl https://install.meteor.com/ | sh
+clear
+ls
+meteor create simple-todos
+ls
+cd simple-todos/
+ls
+git init
+clear
+ls -a
+meteor
+meteor
+clear
+ls
+atom .
+
+meteor
+ls
+cd ..
+la
+ls
+mkdir met
+mv simple-todos/ met/
+ls
+cd met/
+ls
+git init
+clear
+git remote add origin https://github.com/YonasBerhe/met
+ls
+git status
+git add .
+git commit -am "Hello met"
+git pull
+ls
+clear
+git push origin master
+git rebase
+git pull
+git pull https://github.com/YonasBerhe/met master
+clear
+ls
+git satus
+git statys
+git status
+git push
+clear
+ls
+git status
+git add simple-todos/
+git commit -am ". "
+git push origin master
+archey
+clear
+ls
+cd ..
+ls
+cd exp/
+ls
+clear
+ls
+vim index.js 
+rm index.js 
+ls
+rm index2.js 
+ls
+cd savaho/
+ls
+cd ..
+ls
+clear
+rm -rf savaho/
+ls
+metour exp
+meteor examples
+meteor create  examples
+meteor
+ls
+cd examples/
+ls
+meteor
+ls
+meteor mongo
+ls
+ls -a
+cd cd .meteor/
+ls
+ls
+clear
+ls -a
+cd .meteor/
+ls
+cd local/
+ls
+cd db/
+ls
+cd ..
+sl
+cd ..
+ls
+cd ..
+ls
+meteor mongo
+ls
+cd ..
+ls
+git clone https://github.com/louisgv/testdrive-meteor.git
+clear
+ls
+cd testdrive-meteor/
+ls
+cd simple-todos
+ls
+ls
+clear
+cd ..
+ls
+cd .
+cd ..
+ls
+rm -rf testdrive-meteor/
+clear
+ls
+cd simple-todos/
+ls
+ls
 cd ..
 sl
 ls
-mkdir firebasetut
+clear
 ls
-cd firebasetut/
+meteor deploy simple-todos.meteor.com
+ls
+cd simple-todos/
+ls
+meteor deploy simple-todos.meteor.com
+meteor login 
+meteor deploy simple-todos.meteor.com
+meteor login 
+meteor deploy simple-todos.meteor.com
+meteor authorized --add
+meteor authorized --add sanoy
+clear
+meteor add accounts-meteor-developer
+meteor deploy simple-todos.meteor.com
+meteor login
+meteor deploy simple-todos.meteor.com
+meteor install-sdk ios
+meteor add-platform ios
+clear
+meteor run ios
+clear
+ls
+cd ~
+ls
+cd code/
 ls
 clear
+ls
+cd pulley
+cd ..
+ls
+cd code/openseattle/
+ls
+cd openseattle.github.io/
+ls
+git beanch
+git branch
+clear
+git status
+git add .
+clear
+ls
+clear
+ls
+clear
+ls
+cler
+clear
+ls
+git statu
+git status
+jekyle serve 
+jekyll serve
+clear
+ls
+git status
+git add .
+git commit -am "pulleykingcounty added to projects" 
+clear
+ls
+ls
+ls
+git branch
+clear
+git push origin yonas
+ls
+clear
+ls
+git status
+git checkout master
+ls
+git branch
+clear
+ls
+git merge yonas
+clear
+git push origin master
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+ls
+ls
+:wq
+eixt
+exit
+ls
+vim examples.js 
+ls
+vim examples.html 
+vi examples.js 
+vi examples.js 
+ls
+vi examples.
+ls
+vi examples.js 
+vi examples.js 
+ls
+vi examples.html 
+ls
+vim examples.js 
+ls
+vim examples.html 
+vim examples.js 
+ls
+vim examples.html 
+ls
+vim examples.js 
+ls
+cd ..
+ls
+rm -rf examples/
+ls
+clear
+ls
+cd ..
+ls
+cd exp/
+ls
+cd examples/
+ls
+clear
+npm init
+clear
+ls
+vim package.json 
+npm install
+ls
+vim package.json 
+npm install
+ls
+vim package.json 
+npm install
+clear
+ls
+vim index.js
+node index.js 
+ls
+vim index.js 
+node index.js 
+clear
+ls
 touch index.html
 ls
 vim index.html 
 ls
-atom .
-spotify pause
-spotify pervious
-spotify pervious
-spotify pervious
-spotify previous
-spotify next
-spotify next
-spotify next
-spotify next
-spotify pause
-spotify play
-spotify next
-spotify next
-spotify next
-spotify next
-spotify next
-spotify pause
-ls
-cd ..
-sls
-clear
-ls
-ping google.com
-clear
-ls
-spotify play
-spotify next
-spotify next
-spotify pause
-ls
-git clone  https://github.com/openseattle/pulleykingcounty.git
-clear
-ls
-cd pulleykingcounty/
-ls
-cd pulley/
 sl
 ls
-cd ..
-sl
+vim index.html 
 ls
+node index.html 
 clear
 ls
-cd ..
-ls
-mkdir pulley
-cd pulley
-git clone
-git clone https://github.com/openseattle/pulleykingcounty.git
-clear
-ls
-cd ..
-ls
-rm -rf pulley
-ls
-git clone https://github.com/openseattle/pulley.pugetsound.git
-ls
-ls
-cd pulley.pugetsound/
-ls
-atom .
-clear
-ls
-cat package.json 
-npm install nodemailer --sav
-npm install nodemailer --save
-clear
-ls
-heroku git:clone -a pllsd
-ls
-ls
-cd pllsd/
-ls
-nodemon index.js 
-tmux
-cd code/
-ls
-cd pulley.pugetsound/
-ls
-ls ~
-ls
-cd ~
-clear
-ls -a
-cat .vim
-cat .vimrc 
-vim .vimrc 
-ls
-ls
-cd routes/
+vim index.html 
+node index.html 
+node index.js 
 ls
 vim index.js 
-l
-exit
-ls
-ls
-exit
-cd ~
-ls
-cd .vim
-ls
-ls
-cd ..
-ls
-cd .vim
-ls
-mkdir bundle
-ls
-cd ..
-lsl
-ls
-ls
-cd .vim
-ls
-cd bundle/
-ls
-git clone https://github.com/Valloric/YouCompleteMe
 clear
 ls
-vim 
-cd ..
+vim index.js 
+ls
+vi index.js 
+ls
+vim app.js
+ls
+vim index.html 
+ls
+vim app.js 
+ls
+cler
+clear
+ls
+node index.js 
+clear
+ls
+node app.js 
+clear
+vim app.js 
+ls
+node index.js 
+ls
+vim index.js 
+node index.js 
+vim index.html 
+ls
+vi app.js 
+rm app.js 
+vim index.js 
+clear
+node index.js 
+clea
+clear
+vim index.js 
+node index.js 
+clear
+sl
+vim index.js 
+ls
+vi index.html 
+ls
+vim index.html 
+vim index.html 
+vim index.js 
+ls
+node index.js 
+ls
+vim index.html 
+node index.html 
+node index.js 
+clear
 ls
 cd ..
 ls
-ls -a
-vim .vimrc 
-vim 
-vim
-vim .vimrc
-vim
-vim .vimrc
+git clone https://github.com/sethvincent/electron-2d-game-example.git
+ls
+cd electron-2d-game-example/
+ls
+clear
+ls
+npm install
+clear
+ls
+vim index.js 
+cd ..
+ls
+cd e
+cd examples/
+ls
+vim index.js 
+node index.js 
+ls
+clear
+ls
+cd ..
+ls
+cd e
+cd examples/
+ls
+vim index.j
+vi index.js 
+node index.js 
+clear
+ls
+l
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd high-ground-alert/
+sl
+ls
+clear
+ls
+vim app.js
+vim index.js 
+cat package.json 
+clear
+ls
+cd ..
+ls
+cd exp/
+ls
+cd examples/
+ls
+clear 
+ls
+npm uninstall express
+npm uninstall express --save
+vim package.json 
+ls
+vim index.js 
+npm start
+node index.js 
+vi index.js 
+node index.js 
+vlrar
+clear
+;s
+ls
+tmux
+l
+node

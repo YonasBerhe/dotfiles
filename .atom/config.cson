@@ -10,6 +10,5 @@
     ]
   editor:
     invisibles: {}
-    fontSize: 15
   "spell-check": {}
   minimap: {}

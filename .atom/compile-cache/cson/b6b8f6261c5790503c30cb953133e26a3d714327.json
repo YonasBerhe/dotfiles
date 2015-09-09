@@ -1,0 +1,1 @@
+{".text.html":{"Select":{"prefix":"ionic-css-select","body":"<div class=\"list\">\n\n  <label class=\"item item-input item-select\">\n    <div class=\"input-label\">\n      ${1:Lightsaber}\n    </div>\n    <select>\n      <option>${2:Blue}</option>\n      <option selected>${3:Green}</option>\n      <option>${4:Red}</option>\n    </select>\n  </label>\n  \n</div>"}}}

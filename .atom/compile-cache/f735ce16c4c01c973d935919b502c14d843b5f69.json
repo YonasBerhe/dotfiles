@@ -1,0 +1,1 @@
+{".text.html":{"Side Menu":{"prefix":"ionic-side-menus","body":"<ion-side-menus>\n  <!-- Center content -->\n  <ion-side-menu-content ng-controller=\"yourController\">\n  </ion-side-menu-content>\n\n  <!-- Left menu -->\n  <ion-side-menu side=\"left\">\n  </ion-side-menu>\n\n  <!-- Right menu -->\n  <ion-side-menu side=\"right\">\n  </ion-side-menu>\n</ion-side-menus>"}}}

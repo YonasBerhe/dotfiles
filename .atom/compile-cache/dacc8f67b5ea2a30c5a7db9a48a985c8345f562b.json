@@ -1,0 +1,1 @@
+{".text.html":{"Radio Buttons":{"prefix":"ionic-css-radio","body":"<div class=\"list\">\n  <label class=\"item item-radio\">\n    <input type=\"radio\" name=\"group\">\n    <div class=\"item-content\">\n      ${1: Radio Button}\n    </div>\n    <i class=\"radio-icon ion-checkmark\"></i>\n  </label>\n</div>"}}}

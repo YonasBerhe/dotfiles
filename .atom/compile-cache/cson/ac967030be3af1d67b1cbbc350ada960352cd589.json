@@ -1,0 +1,1 @@
+{".source.js":{"Backdrop":{"prefix":"ionic-js-backdrop","body":"function MyController($scope, $ionicBackdrop, $timeout) {\n  //Show a backdrop for one second\n  $scope.action = function() {\n    $ionicBackdrop.retain();\n    $timeout(function() {\n      $ionicBackdrop.release();\n    }, 1000);\n  };\n}"}}}
